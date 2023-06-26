@@ -32,8 +32,9 @@
     border: 0;
     padding: 15px 30px;
     border-radius: 10px;
+    cursor: pointer;
     background-color: #70A9ED;
-    color: #FFF;
+    color: #FFFFFF;
     text-align: center;
     font-size: 28px;
     font-family: Inter;
